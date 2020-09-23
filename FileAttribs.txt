@@ -1,0 +1,23 @@
+To view the attributes of a file or folder just click on it.
+and the check boxes will show the attributes.
+
+to change the attributes of a file click desired Check boxes 
+then click [Set File Attributes] button ---carefull with the hidden attributes !!
+
+use  Caution with this selection !!!
+
+to change the attributes of --all files in a folder-- click desired Check boxes 
+ then click [Set File List Attributes] button ---carefull when using the hidden attributes !!
+
+If you set the attributes to hidden and do not have 
+Windows,View ,Folder Options,Hidden to show all files..
+
+I order to see them again you will have to use this file to set them back.
+ or 
+set Windows,View ,Folder Options,Hidden to show all files.
+
+*********************************************************
+*    Warranty:                                          *
+*       as is', without warranties as to performance    *
+*       fitness, merchantability,or any other warranty  *
+*********************************************************
